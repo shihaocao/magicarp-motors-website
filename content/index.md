@@ -16,9 +16,14 @@ To have fun with the homies doing the absurd.
 
 # Build Reference
 Here's a few handy pages that summarize the things we learned while building the car up to race spec.
-- [Builds](builds)
 - [Kill Switch](kill-switch)
+- [Lights and Paint](lights-and-paint)
+- [Brakes and Tires](tires-brakes)
+
+See all build related notes pages here:
+- [Builds](builds)
+
 
 # Race Day
 We learned a lot of things on how to run a race day, and specifically also for a 25 hour race.
-- [Notes](notes)
+- [Notes](misc)

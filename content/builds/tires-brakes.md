@@ -6,4 +6,11 @@ tags:
   - build
 ---
 
+# Tires
+## Lead Times
+Hanhook Ventus R-S4
+
+
+# Brakes
+## Lead Times
 Porterfield R-4E
