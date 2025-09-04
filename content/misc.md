@@ -21,7 +21,7 @@ This page is a dumping ground for all other remaining thoughts on the topic.
 - Take care to arrange all the stuff in the garage to say, "everything on the floor between X and Y _must_ go to competition".
 
 ## First Day / Test Day Prep
-Lesson: The `test day` sticker can be different from `I passed Lemons inspection` sticker. Make sure you have both on (or atleast the test day sticker) when going out on track.
+#tip The `test day` sticker can be different from `I passed Lemons inspection` sticker. Make sure you have both on (or atleast the test day sticker) when going out on track.
 
 We got to Thunderhill at about 12:00, 1 hr before check-in, and of course, all the pitboxes in the shade were taken. But we did manage to find a pit box between two really experienced teams. That was really awesome because we asked them questions and borrowed tools all weekend -- that was great.
 
@@ -40,7 +40,7 @@ These are the things you don't think about until you've watched a few lemons rac
 
 ### Sus things we did since we're a new team
 - As a new team, I knew that once we got on track the car would probably throw a few more codes.
-    - Whoever is first on track should probably bring an equipment/phone on track that can scan OBD2 codes
+    - #tip Whoever is first on track should probably bring an equipment/phone on track that can scan OBD2 codes
 
 ### Paranoia Checks
 Anything you zip tie, and especially zip ties that you have to replace because you find that they break _will break again eventually_. Make sure you reason about why some zip tie broke, and if you can't address that root cause, know that you need to be inspecting for wear/replacement
@@ -61,7 +61,7 @@ It helped to make sure there was a spare Verzion phone that was changing.
 - It's important that the radio operator stays in a predictable spot. Most of the time we had the radio operator in `pit` so that if the driver said they're coming back, the `pit crew` would know immediately. If they're gonna go to the `tower` or somewhere else, the pit crew and `radio operator` must have good bidirection comms.
 
 ### Wishlist
-- Many teams recommended we have a pit board. We did not have a pit board, and for our next race we should have a pit board.
+- #tip Many teams recommended we have a pit board. We did not have a pit board, and for our next race we should have a pit board.
 
 # Drivers Ed
 - Make sure all drivers know where the **penalty board** is. Not all of our drivers knew.
@@ -70,7 +70,8 @@ It helped to make sure there was a spare Verzion phone that was changing.
 
 # Things we wish we knew
 - There is a victory lap at the end of the race. Don't pit unless the car is mega cooked. Low gas indicator does not mean the car is out of gas completely. The worst that can happen is that you stop on track? Oh well we'll get towed in.
-- Some tracks (atleast Thunderhill) have a tire (mounter?) on site. So ACTION: order more than the set of 4 you need in case you don't want tire wearout to be your hindering your race.
+- Some tracks (atleast Thunderhill) have a tire (mounter?) on site.
+    - #tip So order more than the set of 4 you need in case you don't want tire wearout to be your hindering your race.
 
 # Pit Operations
 

@@ -26,7 +26,7 @@ These two links helped me figure out how to wire things
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; display: flex; justify-content: center; max-width: 100%; margin: 0 5px;">
-    <img src="builds/images/kill-switch/kill-switch-half-wired.jpg"
+    <img src="images/kill-switch/kill-switch-half-wired.jpg"
          style="height: auto; max-width: 60%;">
   </div>
 </div>
