@@ -1,5 +1,5 @@
 ---
-title: "Misc Advice"
+title: "Logistics and Operations"
 date: 2025-09-02
 tags:
   - race day
@@ -7,12 +7,9 @@ tags:
   - operations
 ---
 
+This page is a dumping ground for lessons about logistics and operations at the track.
 
-This page is a dumping ground for all other remaining thoughts on the topic.
-
-### Prepping 
-
-###
+# Prepping 
 
 ## The Day Before
 ### Packing
@@ -20,10 +17,10 @@ This page is a dumping ground for all other remaining thoughts on the topic.
 - Some cars will get to location at different times of day. Some things are strictly needed by a certain time. It can be easier to indicate this by arranging the garage "front to back", with things that should be loaded on the first available car in the `front`.
 - Take care to arrange all the stuff in the garage to say, "everything on the floor between X and Y _must_ go to competition".
 
-## First Day / Test Day Prep
-#tip The `test day` sticker can be different from `I passed Lemons inspection` sticker. Make sure you have both on (or atleast the test day sticker) when going out on track.
+## Test Day
+The `test day` sticker can be different from `I passed Lemons inspection` sticker. Make sure you have both on (or atleast the test day sticker) when going out on track.
 
-We got to Thunderhill at about 12:00, 1 hr before check-in, and of course, all the pitboxes in the shade were taken. But we did manage to find a pit box between two really experienced teams. That was really awesome because we asked them questions and borrowed tools all weekend -- that was great.
+We got to Thunderhill at about 12:00, 1 hr before check-in, and of course, all the pitboxes in the shade were taken. But we did manage to find a pit box between two really experienced teams. That was really awesome because we asked them questions and borrowed tools all weekend.
 
 ### The final touches for your car
 These are the things you don't think about until you've watched a few lemons racing videos inside the cockpit and you see the things they do.
@@ -35,12 +32,12 @@ These are the things you don't think about until you've watched a few lemons rac
 - We added towels taped down on the back "dash" below the rear windscreen. This was extremely helpful for reducing glare.
 
 
-## Race Day Prep
+## Race Day(s)
 - Emphasize safety first!
 
 ### Sus things we did since we're a new team
 - As a new team, I knew that once we got on track the car would probably throw a few more codes.
-    - #tip Whoever is first on track should probably bring an equipment/phone on track that can scan OBD2 codes
+    - Whoever is first on track should probably bring an equipment/phone on track that can scan OBD2 codes
 
 ### Paranoia Checks
 Anything you zip tie, and especially zip ties that you have to replace because you find that they break _will break again eventually_. Make sure you reason about why some zip tie broke, and if you can't address that root cause, know that you need to be inspecting for wear/replacement
@@ -48,7 +45,7 @@ Anything you zip tie, and especially zip ties that you have to replace because y
 ### 24 Hr Specific
 We were overstaffed during the day, and severely understaffed at night. It's really exciting in the first 2 or 3 hours to have everyone around, but if you want to go 24 hrs in your first race make sure you plan out your shifts and send people to bed early!
 
-# Commnication
+# Communication
 We found that at the Thunderhill track, we had great communication via LTE phone call with two Verizon phones + wired earbuds. One for the driver, and one for the radio operator.
 - This was better than the radio because push to talk for our radios was very un-usable.
     - Given that the radio is half duplex we can't just be always on.
@@ -57,23 +54,25 @@ We found that at the Thunderhill track, we had great communication via LTE phone
 It helped to make sure there was a spare Verzion phone that was changing.
 
 ### Radio Operators
-- Everyone installed TODO app. It was useful to know your laptimes and pace since drivers will want to hit a given pace to know how hard they should be pushing their car.
+- Everyone installed a race monitoring/pace app that streamed data from the `transponder`. It was useful to know your lap-times and pace since drivers will want to hit a given pace to know how hard they should be pushing their car.
 - It's important that the radio operator stays in a predictable spot. Most of the time we had the radio operator in `pit` so that if the driver said they're coming back, the `pit crew` would know immediately. If they're gonna go to the `tower` or somewhere else, the pit crew and `radio operator` must have good bidirection comms.
 
 ### Wishlist
-- #tip Many teams recommended we have a pit board. We did not have a pit board, and for our next race we should have a pit board.
+- Many teams recommended we have a pit board. A pit board would have been very useful for communicating when radios were busted.
+
+### Misc
+Make sure everyone has discord installed and notifications on. Test people's notifications and @mentions.
 
 # Drivers Ed
 - Make sure all drivers know where the **penalty board** is. Not all of our drivers knew.
 - Driving for an extended time in the dirt with two wheels off will throw a big plume. You should probably come in to the pits anyway.
 - Make sure Drivers learn your corner numbers and names of corners. It is useful so that Drivers can give tips for the next Driver about braking points etc.
 
-# Things we wish we knew
+## Things we wish we knew
 - There is a victory lap at the end of the race. Don't pit unless the car is mega cooked. Low gas indicator does not mean the car is out of gas completely. The worst that can happen is that you stop on track? Oh well we'll get towed in.
-- Some tracks (atleast Thunderhill) have a tire (mounter?) on site.
-    - #tip So order more than the set of 4 you need in case you don't want tire wearout to be your hindering your race.
+- Some tracks (atleast Thunderhill) have a tire (mounter?) on site, so order more than 4 tires so you can swap to spares.
 
-# Pit Operations
+# Running Smooth Pits
 
 ## God Send Tools
 - 12V powered air compressor. Amazing for pumping tires up to pressure at the pit.
@@ -95,10 +94,10 @@ It helped to make sure there was a spare Verzion phone that was changing.
 ### Scheduling
 We created a simple spreadsheet on the fly of who will be doing what roles so that when people came in to a pit we knew what roles were or were not being done.
 
-ACTION: we never rigorously did checklisting, and this was somewhat dangerous. Let's make sure we have good checklisting for next race.
-TODO SCREENSHOT
+We never rigorously did check-listing, and this was somewhat dangerous. Let's make sure we have good check-listing for next race.
 
-# Spectator
+# Spectators
+
 ### Things we could have done better
 - One of the most fun things you can do as a spectator is to ask other teams about their race day and car
     - Have teammates take spectators around to talk to other teams and judges!

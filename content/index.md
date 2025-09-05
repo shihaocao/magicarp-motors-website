@@ -37,4 +37,4 @@ Here's a few handy pages that summarize the things we learned while building the
 
 # Logistics and Race Day
 We learned a lot of things on test day and race day(s). Here's a dump. And additional thoughts since it was a 25-hour race.
-- [Misc Notes](misc)
+- [Logistics and Operations](misc)
