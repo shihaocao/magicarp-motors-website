@@ -88,7 +88,7 @@ working on the tie rod</div>
 
 ---
 
-I don't have a photo of the transcooler in the final set up but do NOT do what we have here.
+We don't have a photo of the transcooler in the final set up but do NOT do what we have here.
 This was the first routing of the tubes and we planned to just tie it up, but even if it were flush against
 the body frame, if we crouched down hard enough to touch the tubes to the track we would have
 absolutely torn up these lines.

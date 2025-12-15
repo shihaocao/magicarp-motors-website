@@ -36,7 +36,7 @@ These are the things you don't think about until you've watched a few lemons rac
 - Emphasize safety first!
 
 ### Sus things we did since we're a new team
-- As a new team, I knew that once we got on track the car would probably throw a few more codes.
+- As a new team, we knew that once we got on track the car would probably throw a few more codes.
     - Whoever is first on track should probably bring an equipment/phone on track that can scan OBD2 codes
 
 ### Paranoia Checks
