@@ -10,25 +10,44 @@ _Note: this assumes someone has already set up things for you_
 
 Look at this map: [https://en.wikipedia.org/wiki/Sonoma_Raceway#/media/File:Sonoma_Raceway_2024.svg]
 
-1. Open my laptop, windows pin is `redacted`, see discord
+1. Open the desktop, the Windows pin is `redacted`, see discord
 2. Launch Assetto Corsa -> Go to `drive`
 3. Hit `hot lap`
 4. Choose `Alfa Romeo Giulietta QV`
-   1. (after 1 hr, switch to the `Toyota Carina`)
 5. Choose `Sonoma WTCC` (not rp layout) for track
 6. Start
 7. With the car on the screen/pit lane, hit the wheel in the top left to actually start racing.
-8. Hit the gas and go.
+8. Shift into 1st, hit the gas and go.
    1. Be sure to watch you `MPH` in corners, and listen for when the tires are squealing.
+
+_NOTE: The 92 accord does have ABS, but does not have Traction Control. Run with Factory ABS, and NO traction control_
+
+# As you are driving
+- If you take too much damage to your gearbox, the shifting will become slower and unreliable. You should hit `ESC` and `restart the session`.
+- If you money shift, the engine will take damage. Hit `ESC` and `restart`.
 
 # High level tips
 - hit your apex, and especially before another turn, consider aiming for _late_ apexes. IE turn `2.1` into `2.2`
 - be gentle with the steering, do not change the steering quickly this will upset the car
 - be gentle with getting on and off the gas/brakes. this will also upset the car
 
-# Hardware Setup
-- Make sure the eGPU is plugged in
-- Make sure the Fanatec is plugged in _and on_ before Assetto Corsa is launched.
+# February Notes
+- We should start practice against bots.
+  - To do race practice, hit the `Race`->`Quick Race` Selector at the top, and it should already be pre-populated with fast cars.
+- We should practice with the `Accord`.
+
+# Buttons
+- The top left button on the wheel is `look left`
+- The top right button on the wheel is `look right`
+- The bottom right button on the wheel is `look behind you`
+- The biddle right button on the wheel is `change views`
+
+# FAQ
+- The screen is all white and glaring:
+  - To fix this, change the weather of the race to `heavy clouds` this will have the rendering engine not think about reflections too much.
+- I can't hear any sound. Turn on the bluetooth dongle at the top right of the left desk -- it should auto connect.
+- The wheel isn't giving force feedback:
+  - The wheel must be turned on (yellow light on, not red) at the base of the wheel bottom right side **before the game is booted**
 
 # Install
 Must haves:
@@ -43,6 +62,3 @@ Must haves:
 - Cars:
   - [https://www.assettoworld.com/car/toyota-carina-ed-st200-201-v-type-rus-spec]
     - This car is nice for us because it is FWD and it has a 4 speed gearbox -- which matches our 1997 Avalon
-
-# X1C + eGPU notes
-If the eGPU is not detecting, do not start by installing the `Nvidia App`, start by installing the latest windows Nvidia GPU driver, and then hit the check box to install the `App` alongside.
